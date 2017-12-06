@@ -1,2 +1,2 @@
-# spa-firevue
-Realtime SPA With Firebase + Vue2
+# Firevue
+Vue2 + Firebase Authentication
